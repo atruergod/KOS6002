@@ -1,3 +1,5 @@
+- 이것은 리드미입니다,,,! 오늘 수업에 써야해서 부득이하게 씁니다,,!
+
 # Make a github id and clone
 
 # cmdstanpy install and setup
